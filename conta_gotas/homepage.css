@@ -9,7 +9,7 @@ body {
   background: #2f9ec7;
 }
 
-/* HEADER */
+
 header {
   background: #2f9ec7;
   padding: 20px 0;
@@ -41,7 +41,6 @@ nav a {
   border-radius: 3px;
 }
 
-/* TOPO */
 .topo {
   width: 90%;
   margin: 20px auto;
@@ -49,7 +48,7 @@ nav a {
   gap: 20px;
 }
 
-/* VIDEO */
+
 .video {
   width: 65%;
   background: #eaeaea;
@@ -65,7 +64,7 @@ nav a {
   display: block;
 }
 
-/* LATERAL */
+
 .direita {
   width: 35%;
   display: flex;
@@ -80,7 +79,6 @@ nav a {
   border: 2px solid #d3d3d3;
 }
 
-/* REDES (imagem única) */
 .redes img {
   width: 100%;
   max-width: 220px;
@@ -88,7 +86,7 @@ nav a {
   margin: 10px auto;
 }
 
-/* LOGIN */
+
 .login input {
   width: 100%;
   padding: 8px;
@@ -109,7 +107,7 @@ nav a {
   cursor: pointer;
 }
 
-/* APOIO */
+
 .apoio {
   width: 90%;
   margin: 0 auto 20px;
@@ -130,7 +128,6 @@ nav a {
   height: 40px;
 }
 
-/* FOOTER */
 footer {
   background: #2f9ec7;
   padding: 20px 0;
@@ -167,7 +164,6 @@ footer {
   margin-top: 10px;
 }
 
-/* TEXTOS */
 h2 {
   font-size: 16px;
   margin-bottom: 10px;
